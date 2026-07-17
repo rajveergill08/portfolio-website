@@ -1,0 +1,9 @@
+{
+  "name": "Rajveer Singh Gill — Portfolio",
+  "short_name": "Rajveer.dev",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070b",
+  "theme_color": "#07070b",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
